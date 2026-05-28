@@ -1,36 +1,108 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🎙️ Meu Primeiro Agente de IA
 
-## Getting Started
+Um projeto simples de Inteligência Artificial que escuta minha voz em tempo real e transforma tudo em texto automaticamente.  
+Esse foi o meu primeiro projeto envolvendo IA e reconhecimento de voz. 🚀
 
-First, run the development server:
+---
+
+## 📌 Sobre o Projeto
+
+Esse agente utiliza reconhecimento de voz para:
+
+- 🎤 Escutar o usuário falando
+- 📝 Transcrever a fala em texto
+- ⚡ Mostrar o resultado em tempo real
+- 🤖 Simular um pequeno agente de IA
+
+O objetivo principal foi aprender mais sobre:
+- IA
+- Reconhecimento de voz
+- Front-end
+- Interação em tempo real
+
+---
+
+## 🖥️ Tecnologias Utilizadas
+
+- ⚛️ React / Node.js
+- 🟨 TypeScript
+- 🌐 Web Speech API
+- 🎨 CSS / Tailwind CSS
+
+---
+
+## 📷 Preview do Projeto
+
+Adicione aqui uma imagem ou GIF do projeto:
+
+```md
+![Preview do Projeto](./preview.png)
+```
+
+---
+
+## 🚀 Como Rodar o Projeto
+
+Clone o repositório:
+
+```bash
+git clone https://github.com/seuusuario/seurepositorio.git
+```
+
+Entre na pasta do projeto:
+
+```bash
+cd seurepositorio
+```
+
+Instale as dependências:
+
+```bash
+npm install
+```
+
+Execute o projeto:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🎯 Funcionalidades
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- [x] Captura de voz
+- [x] Transcrição em tempo real
+- [x] Interface simples
+- [ ] Integração com IA
+- [ ] Histórico de conversas
+- [ ] Resposta por voz
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## 💡 Aprendizados
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Durante esse projeto eu aprendi:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- Como funciona reconhecimento de voz no navegador
+- Uso da Web Speech API
+- Manipulação de estados no React
+- Estruturação de projetos com Node.js
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 📚 Próximos Passos
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Quero evoluir esse projeto adicionando:
+
+- 🧠 Integração com IA real
+- 💬 Chat inteligente
+- 🔊 Resposta por voz
+- ☁️ Banco de dados
+- 📱 Melhor interface
+
+---
+
+## 👨‍💻 Autor
+
+Feito por **Vitória Dietrich** 🚀
