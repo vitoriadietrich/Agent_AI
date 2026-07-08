@@ -1,18 +1,18 @@
-# 🎙️ Meu Primeiro Agente de IA
+# Meu Primeiro Agente de IA
 
 Um projeto simples de Inteligência Artificial que escuta minha voz em tempo real e transforma tudo em texto automaticamente.  
-Esse foi o meu primeiro projeto envolvendo IA e reconhecimento de voz. 🚀
+Esse foi o meu primeiro projeto envolvendo IA e reconhecimento de voz. 
 
 ---
 
-## 📌 Sobre o Projeto
+## Sobre o Projeto
 
 Esse agente utiliza reconhecimento de voz para:
 
-- 🎤 Escutar o usuário falando
-- 📝 Transcrever a fala em texto
-- ⚡ Mostrar o resultado em tempo real
-- 🤖 Simular um pequeno agente de IA
+- Escutar o usuário falando
+- Transcrever a fala em texto
+- Mostrar o resultado em tempo real
+- Simular um pequeno agente de IA
 
 O objetivo principal foi aprender mais sobre:
 - IA
@@ -22,16 +22,16 @@ O objetivo principal foi aprender mais sobre:
 
 ---
 
-## 🖥️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
-- ⚛️ React / Node.js
-- 🟨 TypeScript
-- 🌐 Web Speech API
-- 🎨 CSS / Tailwind CSS
+- React / Node.js
+- TypeScript
+- Web Speech API
+- CSS / Tailwind CSS
 
 ---
 
-## 📷 Preview do Projeto
+## Preview do Projeto
 
 Adicione aqui uma imagem ou GIF do projeto:
 
@@ -41,7 +41,7 @@ Adicione aqui uma imagem ou GIF do projeto:
 
 ---
 
-## 🚀 Como Rodar o Projeto
+## Como Rodar o Projeto
 
 Clone o repositório:
 
@@ -69,7 +69,7 @@ npm run dev
 
 ---
 
-## 🎯 Funcionalidades
+## Funcionalidades
 
 - [x] Captura de voz
 - [x] Transcrição em tempo real
@@ -80,7 +80,7 @@ npm run dev
 
 ---
 
-## 💡 Aprendizados
+## Aprendizados
 
 Durante esse projeto eu aprendi:
 
@@ -91,18 +91,18 @@ Durante esse projeto eu aprendi:
 
 ---
 
-## 📚 Próximos Passos
+## Próximos Passos
 
 Quero evoluir esse projeto adicionando:
 
-- 🧠 Integração com IA real
-- 💬 Chat inteligente
-- 🔊 Resposta por voz
-- ☁️ Banco de dados
-- 📱 Melhor interface
+- Integração com IA real
+- Chat inteligente
+- Resposta por voz
+- Banco de dados
+- Melhor interface
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 
 Feito por **Vitória Dietrich** 🚀
